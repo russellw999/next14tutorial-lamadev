@@ -17,6 +17,7 @@
 
 .img{
   object-fit: cover;
+  width: 90%;
 }
 
 .date{
