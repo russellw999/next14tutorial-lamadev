@@ -6,6 +6,7 @@ export const metadata = {
     description: "About description",
   };
 const AboutPage = () => {
+  //console.log('lets check where it works')
   return (
     <div className={styles.container}>
       <div className={styles.textContainer}>
